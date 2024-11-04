@@ -1,5 +1,5 @@
-ro.product.board=exynos850
-ro.board.platform=universal3830
+ro.product.board=s5e8825
+ro.board.platform=universal8825
 sys.usb.controller=13600000.dwc3
 ro.boot.usbcontroller=13600000.dwc3
 ro.boot.dynamic_partitions=true
