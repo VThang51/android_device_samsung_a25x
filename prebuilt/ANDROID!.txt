@@ -1,0 +1,20 @@
+boot magic: ANDROID!
+kernel_size: 33972736
+kernel load address: 0x10008000
+ramdisk size: 35060163
+ramdisk load address: 0x10000000
+second bootloader size: 0
+second bootloader load address: 0x00000000
+kernel tags load address: 0x10000000
+page size: 4096
+os version: 12.0.0
+os patch level: 2024-10
+boot image header version: 2
+product name: SRPWC29A006
+command line args: bootconfig buildtime_bootconfig=enable loop.max_part=7
+additional command line args:
+recovery dtbo size: 624128
+recovery dtbo offset: 0x00000000041d8000
+boot header size: 1660
+dtb size: 232288
+dtb address: 0x0000000010000000
